@@ -2,7 +2,6 @@
 
 # CSE-3045-Mathematical-Modeling-For-Data-Science-Lab
 
-Mathematical Modeling For Data Science (MMDS) - Lab Codes - CSE :3045
 
 EIGEN DECOMPOSITION & CHOLESKY DECOMPOSITION -->
 [Python Code](https://github.com/samarthgupta19/CSE-3045-Mathematical-Modelling-For-Data-Science-Lab-Codes/blob/main/Eigen%20Decomposition%20%26%20Cholesky%20Decomposition.ipynb)
